@@ -24,5 +24,6 @@ class Main {
       System.out.print("File name (type nothing to quit): ");
       file = input.nextLine();
     }
+    scanner.close();
   }
 }
