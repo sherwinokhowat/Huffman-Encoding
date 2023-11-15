@@ -4,7 +4,7 @@ import java.util.Scanner;
  * [Main.java] Responsible for interacting with the user and creating a
  * HuffmanTree instance for the user's desired file. Continues to ask for a file
  * name and encodes it, until the user decides to quit. Works with files of any
- * type (i.e. txt, jpeg, png, mp3, etc).
+ * type (e.g. txt, jpeg, png, mp3, etc).
  *
  * @author Sherwin Okhowat
  * @version 1.0
